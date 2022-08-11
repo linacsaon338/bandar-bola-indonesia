@@ -1,0 +1,16 @@
+{
+  "name": "bandar-bola-indonesia",
+  "theme": "bandar bola",
+  "version": "1.0.0",
+  "description": "Bandar bola adalah website judi bola online aman dan terpecaya di seluruh indonesia",
+  "keywords": [
+    "bandar bola",
+    "judi bola",
+    "mix parlay"
+  ],
+  "repository": "https://github.com/linacsaon338/bandar-bola-indonesia",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
